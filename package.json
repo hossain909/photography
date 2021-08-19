@@ -1,0 +1,8 @@
+{
+  "name": "photography",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/hossain909/photography.git",
+  "author": "hossain909 <70032159+hossain909@users.noreply.github.com>",
+  "license": "MIT"
+}
